@@ -10,11 +10,11 @@
 
 [//]: # (Solutions)
 
-[LC0001.py]: Solutions/LC0001.cpp?ts=4
+[LC0001.py]: Solutions/LC0001.py?ts=4
 [Two Sum]: https://leetcode.com/problems/two-sum/
 
-[LC0002.py]: Solutions/LC0002.cpp?ts=4
+[LC0002.py]: Solutions/LC0002.py?ts=4
 [Add Two Numbers]: https://leetcode.com/problems/add-two-numbers/
 
-[LC0003.py]: Solutions/LC0003.cpp?ts=4
+[LC0003.py]: Solutions/LC0003.py?ts=4
 [Longest Substring Without Repeating Characters]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
