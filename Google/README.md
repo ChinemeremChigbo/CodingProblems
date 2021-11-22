@@ -4,13 +4,13 @@
 
 | Problem Solution                                       | Problem Statement                       | Round          | Year |
 |:------------------------------------------------------:|-----------------------------------------|:--------------:|:----:|
-| [A.py](Kick%20Start/2021/Round%20F/A.cpp?ts=4)         | [Trash Bins]                            | Round F        | 2021 |
-| [B.py](Kick%20Start/2021/Round%20F/B.cpp?ts=4)         | [Festival]                              | Round F        | 2021 |
-| [A.py](Kick%20Start/2021/Round%20G/A.cpp?ts=4)         | [Dogs and Cats]                         | Round G        | 2021 |
-| [B.py](Kick%20Start/2021/Round%20G/C.cpp?ts=4)         | [Banana Bunches]                        | Round G        | 2021 |
-| [A.py](Kick%20Start/2021/Round%20H/A.cpp?ts=4)         | [Transform the String]                  | Round H        | 2021 |
-| [B.py](Kick%20Start/2021/Round%20H/B.cpp?ts=4)         | [Painter]                               | Round H        | 2021 |
-| [C.py](Kick%20Start/2021/Round%20H/C.cpp?ts=4)         | [Silly Substitutions]                   | Round H        | 2021 |
+| [A.py](Kick%20Start/2021/Round%20F/A.py?ts=4)         | [Trash Bins]                            | Round F        | 2021 |
+| [B.py](Kick%20Start/2021/Round%20F/B.py?ts=4)         | [Festival]                              | Round F        | 2021 |
+| [A.py](Kick%20Start/2021/Round%20G/A.py?ts=4)         | [Dogs and Cats]                         | Round G        | 2021 |
+| [B.py](Kick%20Start/2021/Round%20G/C.py?ts=4)         | [Banana Bunches]                        | Round G        | 2021 |
+| [A.py](Kick%20Start/2021/Round%20H/A.py?ts=4)         | [Transform the String]                  | Round H        | 2021 |
+| [B.py](Kick%20Start/2021/Round%20H/B.py?ts=4)         | [Painter]                               | Round H        | 2021 |
+| [C.py](Kick%20Start/2021/Round%20H/C.py?ts=4)         | [Silly Substitutions]                   | Round H        | 2021 |
 
 
 [//]: # (Kick Start)
