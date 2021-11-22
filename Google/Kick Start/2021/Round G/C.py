@@ -1,4 +1,3 @@
-
 def bfs(total,cap,trees):
     bfsList = [(0,-1,0)]
     count = 0
