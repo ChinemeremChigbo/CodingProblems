@@ -9,6 +9,11 @@
 | [LC0003.py]     | [Longest Substring Without Repeating Characters]                                                      | Medium     |
 | [LC0004.py]     | [Median of Two Sorted Arrays]                                                                         | Hard       |
 | [LC0005.py]     | [Longest Palindromic Substring]                                                                       | Medium     |
+| [LC0006.py]     | [Zigzag Conversion]                                                                                   | Medium     |
+| [LC0007.py]     | [Reverse Integer]                                                                                     | Medium     |
+| [LC0008.py]     | [String to Integer (atoi)]                                                                            | Medium     |
+| [LC0009.py]     | [Palindrome Number]                                                                                   | Easy       |
+| [LC0010.py]     | [Longest Palindromic Substring]                                                                       | Hard       |
 
 [//]: # (Solutions)
 
@@ -26,3 +31,18 @@
 
 [LC0005.py]: Solutions/LC0005.py?ts=4
 [Longest Palindromic Substring]: https://leetcode.com/problems/longest-palindromic-substring/
+
+[LC0006.py]: Solutions/LC0006.py?ts=4
+[Zigzag Conversion]: https://leetcode.com/problems/zigzag-conversion/
+
+[LC0007.py]: Solutions/LC0007.py?ts=4
+[Reverse Integer]: https://leetcode.com/problems/reverse-integer/
+
+[LC0008.py]: Solutions/LC0008.py?ts=4
+[String to Integer (atoi)]: https://leetcode.com/problems/string-to-integer-atoi/
+
+[LC0009.py]: Solutions/LC0009.py?ts=4
+[Palindrome Number]: https://leetcode.com/problems/palindrome-number/
+
+[LC0010.py]: Solutions/LC0010.py?ts=4
+[Regular Expression Matching]: https://leetcode.com/problems/regular-expression-matching/
