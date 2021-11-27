@@ -28,6 +28,10 @@
 | [LC0022.py]     | [Generate Parentheses]                                                                                | Medium     |
 | [LC0023.py]     | [Merge k Sorted Lists]                                                                                | Hard       |
 | [LC0024.py]     | [Swap Nodes in Pairs]                                                                                 | Medium     |
+| [LC0025.py]     | [Reverse Nodes in k-Group]                                                                            | Hard       |
+| [LC0026.py]     | [Remove Duplicates from Sorted Array]                                                                 | Easy       |
+| [LC0027.py]     | [Remove Element]                                                                                      | Easy       |
+
 
 [//]: # (Solutions)
 
@@ -102,3 +106,12 @@
 
 [LC0024.py]: Solutions/LC0024.py?ts=4
 [Swap Nodes in Pairs]:https://leetcode.com/problems/swap-nodes-in-pairs/
+
+[LC0025.py]: Solutions/LC0025.py?ts=4
+[Reverse Nodes in k-Group]:https://leetcode.com/problems/reverse-nodes-in-k-group/
+
+[LC0026.py]: Solutions/LC0026.py?ts=4
+[Remove Duplicates from Sorted Array]:https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/
+
+[LC0027.py]: Solutions/LC0027.py?ts=4
+[Remove Element]:https://leetcode.com/problems/remove-element/
