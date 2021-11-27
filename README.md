@@ -8,16 +8,16 @@ Python, C++, and JavaScript Solutions to coding problems from popular platforms.
 
 ## Statistics as of 2021-11-21
 
-Problems solved: **562**
+Problems solved: **568**
 
 ### LeetCode
 
 |  Type  | Solved |
 | :----: | :----: |
-|  Easy  |  181   |
-| Medium |  286   |
-|  Hard  |   60   |
-| Total  |  527   |
+|  Easy  |  182   |
+| Medium |  290   |
+|  Hard  |   61   |
+| Total  |  533   |
 
 ### HackerRank
 
