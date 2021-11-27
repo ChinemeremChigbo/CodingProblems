@@ -26,7 +26,7 @@
 | [LC0020.py]     | [Valid Parentheses]                                                                                   | Easy       |
 | [LC0021.py]     | [Merge Two Sorted Lists]                                                                              | Easy       |
 | [LC0022.py]     | [Generate Parentheses]                                                                                | Medium     |
-
+| [LC0023.py]     | [Merge k Sorted Lists]                                                                                | Hard       |
 
 
 [//]: # (Solutions)
@@ -96,3 +96,6 @@
 
 [LC0022.py]: Solutions/LC0022.py?ts=4
 [Generate Parentheses]:https://leetcode.com/problems/generate-parentheses/
+
+[LC0023.py]: Solutions/LC0023.py?ts=4
+[Merge k Sorted Lists]:https://leetcode.com/problems/merge-k-sorted-lists/
