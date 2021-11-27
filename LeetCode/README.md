@@ -23,6 +23,8 @@
 | [LC0017.py]     | [Letter Combinations of a Phone Number]                                                               | Medium     |
 | [LC0018.py]     | [4Sum]                                                                                                | Medium     |
 | [LC0019.py]     | [Remove Nth Node From End of List]                                                                    | Medium     |
+| [LC0020.py]     | [Valid Parentheses]                                                                                   | Easy       |
+
 
 
 
@@ -84,3 +86,6 @@
 
 [LC0019.py]: Solutions/LC0019.py?ts=4
 [Remove Nth Node From End of List]:https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+
+[LC0020.py]: Solutions/LC0020.py?ts=4
+[Valid Parentheses]:https://leetcode.com/problems/valid-parentheses/
