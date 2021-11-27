@@ -31,6 +31,7 @@
 | [LC0025.py]     | [Reverse Nodes in k-Group]                                                                            | Hard       |
 | [LC0026.py]     | [Remove Duplicates from Sorted Array]                                                                 | Easy       |
 | [LC0027.py]     | [Remove Element]                                                                                      | Easy       |
+| [LC0028.py]     | [Implement strStr()]                                                                                  | Easy       |
 
 
 [//]: # (Solutions)
@@ -115,3 +116,6 @@
 
 [LC0027.py]: Solutions/LC0027.py?ts=4
 [Remove Element]:https://leetcode.com/problems/remove-element/
+
+[LC0028.py]: Solutions/LC0028.py?ts=4
+[Implement strStr()]:https://leetcode.com/problems/implement-strstr/
