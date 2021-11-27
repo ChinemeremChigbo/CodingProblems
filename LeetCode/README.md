@@ -18,6 +18,8 @@
 | [LC0012.py]     | [Integer to Roman]                                                                                    | Medium     |
 | [LC0013.py]     | [Roman to Integer]                                                                                    | Easy       |
 | [LC0014.py]     | [Longest Common Prefix]                                                                               | Easy       |
+| [LC0015.py]     | [3Sum]                                                                                                | Medium     |
+| [LC0016.py]     | [3Sum Closest]                                                                                        | Medium     |
 
 
 [//]: # (Solutions)
@@ -63,3 +65,9 @@
 
 [LC0014.py]: Solutions/LC0014.py?ts=4
 [Longest Common Prefix]: https://leetcode.com/problems/longest-common-prefix/
+
+[LC0015.py]: Solutions/LC0015.py?ts=4
+[3Sum]: https://leetcode.com/problems/3sum/
+
+[LC0016.py]: Solutions/LC0016.py?ts=4
+[3Sum Closest]: https://leetcode.com/problems/3sum-closest/
