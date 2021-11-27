@@ -27,7 +27,7 @@
 | [LC0021.py]     | [Merge Two Sorted Lists]                                                                              | Easy       |
 | [LC0022.py]     | [Generate Parentheses]                                                                                | Medium     |
 | [LC0023.py]     | [Merge k Sorted Lists]                                                                                | Hard       |
-
+| [LC0024.py]     | [Swap Nodes in Pairs]                                                                                 | Medium     |
 
 [//]: # (Solutions)
 
@@ -99,3 +99,6 @@
 
 [LC0023.py]: Solutions/LC0023.py?ts=4
 [Merge k Sorted Lists]:https://leetcode.com/problems/merge-k-sorted-lists/
+
+[LC0024.py]: Solutions/LC0024.py?ts=4
+[Swap Nodes in Pairs]:https://leetcode.com/problems/swap-nodes-in-pairs/
