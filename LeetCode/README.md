@@ -24,7 +24,8 @@
 | [LC0018.py]     | [4Sum]                                                                                                | Medium     |
 | [LC0019.py]     | [Remove Nth Node From End of List]                                                                    | Medium     |
 | [LC0020.py]     | [Valid Parentheses]                                                                                   | Easy       |
-
+| [LC0021.py]     | [Merge Two Sorted Lists]                                                                              | Easy       |
+| [LC0022.py]     | [Generate Parentheses]                                                                                | Medium     |
 
 
 
@@ -89,3 +90,9 @@
 
 [LC0020.py]: Solutions/LC0020.py?ts=4
 [Valid Parentheses]:https://leetcode.com/problems/valid-parentheses/
+
+[LC0021.py]: Solutions/LC0021.py?ts=4
+[Merge Two Sorted Lists]:https://leetcode.com/problems/merge-two-sorted-lists/
+
+[LC0022.py]: Solutions/LC0022.py?ts=4
+[Generate Parentheses]:https://leetcode.com/problems/generate-parentheses/
