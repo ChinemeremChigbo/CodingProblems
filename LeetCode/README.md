@@ -32,6 +32,7 @@
 | [LC0026.py]     | [Remove Duplicates from Sorted Array]                                                                 | Easy       |
 | [LC0027.py]     | [Remove Element]                                                                                      | Easy       |
 | [LC0028.py]     | [Implement strStr()]                                                                                  | Easy       |
+| [LC0029.py]     | [Divide Two Integers]                                                                                 | Medium     |
 
 
 [//]: # (Solutions)
@@ -119,3 +120,6 @@
 
 [LC0028.py]: Solutions/LC0028.py?ts=4
 [Implement strStr()]:https://leetcode.com/problems/implement-strstr/
+
+[LC0029.py]: Solutions/LC0029.py?ts=4
+[Divide Two Integers]:https://leetcode.com/problems/divide-two-integers/
