@@ -21,6 +21,8 @@
 | [LC0015.py]     | [3Sum]                                                                                                | Medium     |
 | [LC0016.py]     | [3Sum Closest]                                                                                        | Medium     |
 | [LC0017.py]     | [Letter Combinations of a Phone Number]                                                               | Medium     |
+| [LC0018.py]     | [4Sum]                                                                                                | Medium     |
+
 
 
 [//]: # (Solutions)
@@ -75,3 +77,6 @@
 
 [LC0017.py]: Solutions/LC0017.py?ts=4
 [Letter Combinations of a Phone Number]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+[LC0018.py]: Solutions/LC0018.py?ts=4
+[4Sum]:https://leetcode.com/problems/4sum/submissions/
