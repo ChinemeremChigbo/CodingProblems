@@ -6,7 +6,7 @@ Python, C++, and JavaScript Solutions to coding problems from popular platforms.
 - [HackerRank](HackerRank/ "HackerRank")
 - [Google](Google/ "Google's Coding Competitions")
 
-## Statistics as of 2021-11-21
+## Statistics as of 2021-11-27
 
 Problems solved: **568**
 
