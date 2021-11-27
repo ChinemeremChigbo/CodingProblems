@@ -17,6 +17,7 @@
 | [LC0011.py]     | [Container With Most Water]                                                                           | Medium     |
 | [LC0012.py]     | [Integer to Roman]                                                                                    | Medium     |
 | [LC0013.py]     | [Roman to Integer]                                                                                    | Easy       |
+| [LC0014.py]     | [Longest Common Prefix]                                                                               | Easy       |
 
 
 [//]: # (Solutions)
@@ -59,3 +60,6 @@
 
 [LC0013.py]: Solutions/LC0013.py?ts=4
 [Roman to Integer]: https://leetcode.com/problems/roman-to-integer/
+
+[LC0014.py]: Solutions/LC0014.py?ts=4
+[Longest Common Prefix]: https://leetcode.com/problems/longest-common-prefix/
