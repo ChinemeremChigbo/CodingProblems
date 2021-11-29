@@ -33,6 +33,7 @@
 | [LC0027.py]     | [Remove Element]                                                                                      | Easy       |
 | [LC0028.py]     | [Implement strStr()]                                                                                  | Easy       |
 | [LC0029.py]     | [Divide Two Integers]                                                                                 | Medium     |
+| [LC0031.py]     | [Next Permutation]                                                                                    | Medium     |
 
 
 [//]: # (Solutions)
@@ -123,3 +124,6 @@
 
 [LC0029.py]: Solutions/LC0029.py?ts=4
 [Divide Two Integers]:https://leetcode.com/problems/divide-two-integers/
+
+[LC0031.py]: Solutions/LC0031.py?ts=4
+[Next Permutation]:https://leetcode.com/problems/next-permutation/
