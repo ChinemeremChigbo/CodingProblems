@@ -6,18 +6,18 @@ Python, C++, and JavaScript Solutions to coding problems from popular platforms.
 - [HackerRank](HackerRank/ "HackerRank")
 - [Google](Google/ "Google's Coding Competitions")
 
-## Statistics as of 2021-11-27
+## Statistics as of 2022-02-04
 
-Problems solved: **568**
+Problems solved: **717**
 
 ### LeetCode
 
 |  Type  | Solved |
 | :----: | :----: |
-|  Easy  |  182   |
-| Medium |  290   |
-|  Hard  |   61   |
-| Total  |  533   |
+|  Easy  |  262   |
+| Medium |  346   |
+|  Hard  |   74   |
+| Total  |  682   |
 
 ### HackerRank
 
