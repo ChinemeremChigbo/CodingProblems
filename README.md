@@ -15,9 +15,9 @@ Problems solved: **717**
 |  Type  | Solved |
 | :----: | :----: |
 |  Easy  |  262   |
-| Medium |  346   |
+| Medium |  347   |
 |  Hard  |   74   |
-| Total  |  682   |
+| Total  |  683   |
 
 ### HackerRank
 
